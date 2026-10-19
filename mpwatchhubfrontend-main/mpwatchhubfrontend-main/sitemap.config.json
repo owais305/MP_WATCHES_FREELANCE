@@ -1,0 +1,19 @@
+{
+  "siteUrl": "https://mpwatchhub.in",
+  "changefreq": {
+    "home": "weekly",
+    "pages": "monthly",
+    "products": "weekly"
+  },
+  "priority": {
+    "home": "1.0",
+    "index": "0.95",
+    "sections": "0.85",
+    "pages": "0.8",
+    "products": "0.7"
+  },
+  "homeSections": [
+  { "path": "/index.html#sunglasses", "label": "Sunglasses" },
+  { "path": "/index.html#bestseller", "label": "Best Seller" }
+  ]
+}

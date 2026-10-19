@@ -1,0 +1,744 @@
+[
+    {
+        "id": 1,
+        "name": "AUDEMAS PIGET Luxury Edition 1",
+        "brand": "AUDEMAS PIGET",
+        "category": "watch",
+        "price": "₹3599",
+        "image": "assets/images/brands/AUDEMARS PIGUET/audemars-piguet-1-1.jpeg",
+        "images": [
+            "assets/images/brands/AUDEMARS PIGUET/audemars-piguet-1-1.jpeg",
+            "assets/images/brands/AUDEMARS PIGUET/audemars-piguet-1-2.jpeg",
+            "assets/images/brands/AUDEMARS PIGUET/audemars-piguet-1-3.jpeg",
+            "assets/images/brands/AUDEMARS PIGUET/audemars-piguet-1-4.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this AUDEMAS PIGET watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 2,
+        "name": "CARRTIER Luxury Edition 1",
+        "brand": "CARRTIER",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/CARTIER/cartier-2-1.jpeg",
+        "images": [
+            "assets/images/brands/CARTIER/cartier-2-1.jpeg",
+            "assets/images/brands/CARTIER/cartier-2-2.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this CARRTIER watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 3,
+        "name": "CARRTIER Luxury Edition 2",
+        "brand": "CARRTIER",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/CARTIER/cartier-3-1.jpeg",
+        "images": [
+            "assets/images/brands/CARTIER/cartier-3-1.jpeg",
+            "assets/images/brands/CARTIER/cartier-3-2.jpeg",
+            "assets/images/brands/CARTIER/cartier-3-3.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this CARRTIER watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 4,
+        "name": "CASI0 Luxury Edition 1",
+        "brand": "CASI0",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/CASIO/casio-4-1.jpeg",
+        "images": [
+            "assets/images/brands/CASIO/casio-4-1.jpeg",
+            "assets/images/brands/CASIO/casio-4-2.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this CASI0 watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 5,
+        "name": "CASI0 Luxury Edition 2",
+        "brand": "CASI0",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/CASIO/casio-5-1.jpeg",
+        "images": [
+            "assets/images/brands/CASIO/casio-5-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this CASI0 watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 6,
+        "name": "G-SH0K Luxury Edition 1",
+        "brand": "G-SH0K",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/GSHOCK/gshock-6-1.jpeg",
+        "images": [
+            "assets/images/brands/GSHOCK/gshock-6-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this G-SH0K watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 7,
+        "name": "G-SH0K Luxury Edition 2",
+        "brand": "G-SH0K",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/GSHOCK/gshock-7-1.jpeg",
+        "images": [
+            "assets/images/brands/GSHOCK/gshock-7-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this G-SH0K watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 8,
+        "name": "G-SH0K Luxury Edition 3",
+        "brand": "G-SH0K",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/GSHOCK/gshock-8-1.jpeg",
+        "images": [
+            "assets/images/brands/GSHOCK/gshock-8-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this G-SH0K watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 9,
+        "name": "G-SH0K Luxury Edition 4",
+        "brand": "G-SH0K",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/GSHOCK/gshock-9-1.jpeg",
+        "images": [
+            "assets/images/brands/GSHOCK/gshock-9-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this G-SH0K watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 10,
+        "name": "G-SH0K Luxury Edition 5",
+        "brand": "G-SH0K",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/GSHOCK/gshock-10-1.jpeg",
+        "images": [
+            "assets/images/brands/GSHOCK/gshock-10-1.jpeg",
+            "assets/images/brands/GSHOCK/gshock-10-2.jpeg",
+            "assets/images/brands/GSHOCK/gshock-10-3.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this G-SH0K watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 11,
+        "name": "G-SH0K Luxury Edition 6",
+        "brand": "G-SH0K",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/GSHOCK/gshock-11-1.jpeg",
+        "images": [
+            "assets/images/brands/GSHOCK/gshock-11-1.jpeg",
+            "assets/images/brands/GSHOCK/gshock-11-2.jpeg",
+            "assets/images/brands/GSHOCK/gshock-11-3.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this G-SH0K watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 12,
+        "name": "HUBl0T Luxury Edition 1",
+        "brand": "HUBl0T",
+        "category": "watch",
+        "price": "₹2499",
+        "image": "assets/images/brands/HUBLOT/hublot-12-1.jpeg",
+        "images": [
+            "assets/images/brands/HUBLOT/hublot-12-1.jpeg",
+            "assets/images/brands/HUBLOT/hublot-12-2.jpeg",
+            "assets/images/brands/HUBLOT/hublot-12-3.jpeg",
+            "assets/images/brands/HUBLOT/hublot-12-4.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this HUBl0T watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 13,
+        "name": "HUBl0T Luxury Edition 2",
+        "brand": "HUBl0T",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/HUBLOT/hublot-13-1.jpeg",
+        "images": [
+            "assets/images/brands/HUBLOT/hublot-13-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this HUBl0T watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 14,
+        "name": "HUBl0T Luxury Edition 3",
+        "brand": "HUBl0T",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/HUBLOT/hublot-14-1.jpeg",
+        "images": [
+            "assets/images/brands/HUBLOT/hublot-14-1.jpeg",
+            "assets/images/brands/HUBLOT/hublot-14-2.jpeg",
+            "assets/images/brands/HUBLOT/hublot-14-3.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this HUBl0T watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 15,
+        "name": "HUBl0T Luxury Edition 4",
+        "brand": "HUBl0T",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/HUBLOT/hublot-15-1.jpeg",
+        "images": [
+            "assets/images/brands/HUBLOT/hublot-15-1.jpeg",
+            "assets/images/brands/HUBLOT/hublot-15-2.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this HUBl0T watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 16,
+        "name": "HUBl0T Luxury Edition 5",
+        "brand": "HUBl0T",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/HUBLOT/hublot-16-1.jpeg",
+        "images": [
+            "assets/images/brands/HUBLOT/hublot-16-1.jpeg",
+            "assets/images/brands/HUBLOT/hublot-16-2.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this HUBl0T watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 17,
+        "name": "00MEGA Luxury Edition 1",
+        "brand": "00MEGA",
+        "category": "watch",
+        "price": "₹3999",
+        "image": "assets/images/brands/OMEGA/omega-17-1.jpeg",
+        "images": [
+            "assets/images/brands/OMEGA/omega-17-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this 00MEGA watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 18,
+        "name": "00MEGA Luxury Edition 2",
+        "brand": "00MEGA",
+        "category": "watch",
+        "price": "₹3999",
+        "image": "assets/images/brands/OMEGA/omega-18-1.jpeg",
+        "images": [
+            "assets/images/brands/OMEGA/omega-18-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this 00MEGA watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 19,
+        "name": "00MEGA Luxury Edition 3",
+        "brand": "00MEGA",
+        "category": "watch",
+        "price": "₹3999",
+        "image": "assets/images/brands/OMEGA/omega-19-1.jpeg",
+        "images": [
+            "assets/images/brands/OMEGA/omega-19-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this 00MEGA watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 20,
+        "name": "00MEGA Luxury Edition 4",
+        "brand": "00MEGA",
+        "category": "watch",
+        "price": "₹3999",
+        "image": "assets/images/brands/OMEGA/omega-20-1.jpeg",
+        "images": [
+            "assets/images/brands/OMEGA/omega-20-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this 00MEGA watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 21,
+        "name": "00MEGA Luxury Edition 5",
+        "brand": "00MEGA",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/OMEGA/omega-21-1.jpeg",
+        "images": [
+            "assets/images/brands/OMEGA/omega-21-1.jpeg",
+            "assets/images/brands/OMEGA/omega-21-2.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this 00MEGA watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 22,
+        "name": "00MEGA Luxury Edition 6",
+        "brand": "00MEGA",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/OMEGA/omega-22-1.jpeg",
+        "images": [
+            "assets/images/brands/OMEGA/omega-22-1.jpeg",
+            "assets/images/brands/OMEGA/omega-22-2.jpeg",
+            "assets/images/brands/OMEGA/omega-22-3.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this 00MEGA watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 23,
+        "name": "00MEGA Luxury Edition 7",
+        "brand": "00MEGA",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/OMEGA/omega-23-1.jpeg",
+        "images": [
+            "assets/images/brands/OMEGA/omega-23-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this 00MEGA watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 24,
+        "name": "RAD0 Luxury Edition 1",
+        "brand": "RAD0",
+        "category": "watch",
+        "price": "₹1100",
+        "image": "assets/images/brands/RADO/rado-24-1.jpeg",
+        "images": [
+            "assets/images/brands/RADO/rado-24-1.jpeg",
+            "assets/images/brands/RADO/rado-24-2.jpeg",
+            "assets/images/brands/RADO/rado-24-3.jpeg",
+            "assets/images/brands/RADO/rado-24-4.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this RAD0 watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 25,
+        "name": "RECHAARD MILI Luxury Edition 1",
+        "brand": "RECHAARD MILI",
+        "category": "watch",
+        "price": "₹1499",
+        "image": "assets/images/brands/RICHARD MILLIE/richard-millie-25-1.jpeg",
+        "images": [
+            "assets/images/brands/RICHARD MILLIE/richard-millie-25-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this RECHAARD MILI watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 26,
+        "name": "RECHAARD MILI Luxury Edition 2",
+        "brand": "RECHAARD MILI",
+        "category": "watch",
+        "price": "₹1499",
+        "image": "assets/images/brands/RICHARD MILLIE/richard-millie-26-1.jpeg",
+        "images": [
+            "assets/images/brands/RICHARD MILLIE/richard-millie-26-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this RECHAARD MILI watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 27,
+        "name": "RECHAARD MILI Luxury Edition 3",
+        "brand": "RECHAARD MILI",
+        "category": "watch",
+        "price": "₹1499",
+        "image": "assets/images/brands/RICHARD MILLIE/richard-millie-27-1.jpeg",
+        "images": [
+            "assets/images/brands/RICHARD MILLIE/richard-millie-27-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this RECHAARD MILI watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 28,
+        "name": "RECHAARD MILI Luxury Edition 4",
+        "brand": "RECHAARD MILI",
+        "category": "watch",
+        "price": "₹1499",
+        "image": "assets/images/brands/RICHARD MILLIE/richard-millie-28-1.jpeg",
+        "images": [
+            "assets/images/brands/RICHARD MILLIE/richard-millie-28-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this RECHAARD MILI watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 29,
+        "name": "RECHAARD MILI Luxury Edition 5",
+        "brand": "RECHAARD MILI",
+        "category": "watch",
+        "price": "₹1499",
+        "image": "assets/images/brands/RICHARD MILLIE/richard-millie-29-1.jpeg",
+        "images": [
+            "assets/images/brands/RICHARD MILLIE/richard-millie-29-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this RECHAARD MILI watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 30,
+        "name": "RECHAARD MILI Luxury Edition 6",
+        "brand": "RECHAARD MILI",
+        "category": "watch",
+        "price": "₹1499",
+        "image": "assets/images/brands/RICHARD MILLIE/richard-millie-30-1.jpeg",
+        "images": [
+            "assets/images/brands/RICHARD MILLIE/richard-millie-30-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this RECHAARD MILI watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 31,
+        "name": "RECHAARD MILI Luxury Edition 7",
+        "brand": "RECHAARD MILI",
+        "category": "watch",
+        "price": "₹1499",
+        "image": "assets/images/brands/RICHARD MILLIE/richard-millie-31-1.jpeg",
+        "images": [
+            "assets/images/brands/RICHARD MILLIE/richard-millie-31-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this RECHAARD MILI watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 32,
+        "name": "RECHAARD MILI Luxury Edition 8",
+        "brand": "RECHAARD MILI",
+        "category": "watch",
+        "price": "₹1499",
+        "image": "assets/images/brands/RICHARD MILLIE/richard-millie-32-1.jpeg",
+        "images": [
+            "assets/images/brands/RICHARD MILLIE/richard-millie-32-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this RECHAARD MILI watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 33,
+        "name": "R0LEX Luxury Edition 1",
+        "brand": "R0LEX",
+        "category": "watch",
+        "price": "₹999",
+        "image": "assets/images/brands/ROLEX/rolex-33-1.jpeg",
+        "images": [
+            "assets/images/brands/ROLEX/rolex-33-1.jpeg",
+            "assets/images/brands/ROLEX/rolex-33-2.jpeg",
+            "assets/images/brands/ROLEX/rolex-33-3.jpeg",
+            "assets/images/brands/ROLEX/rolex-33-4.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this R0LEX watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 34,
+        "name": "R0LEX Luxury Edition 2",
+        "brand": "R0LEX",
+        "category": "watch",
+        "price": "₹3699",
+        "image": "assets/images/brands/ROLEX/rolex-34-1.jpeg",
+        "images": [
+            "assets/images/brands/ROLEX/rolex-34-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this R0LEX watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 35,
+        "name": "R0LEX Luxury Edition 3",
+        "brand": "R0LEX",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/ROLEX/rolex-35-1.jpeg",
+        "images": [
+            "assets/images/brands/ROLEX/rolex-35-1.jpeg",
+            "assets/images/brands/ROLEX/rolex-35-2.jpeg",
+            "assets/images/brands/ROLEX/rolex-35-3.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this R0LEX watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 36,
+        "name": "R0LEX Luxury Edition 4",
+        "brand": "R0LEX",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/ROLEX/rolex-36-1.jpeg",
+        "images": [
+            "assets/images/brands/ROLEX/rolex-36-1.jpeg",
+            "assets/images/brands/ROLEX/rolex-36-2.jpeg",
+            "assets/images/brands/ROLEX/rolex-36-3.jpeg",
+            "assets/images/brands/ROLEX/rolex-36-4.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this R0LEX watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 37,
+        "name": "R0LEX Luxury Edition 5",
+        "brand": "R0LEX",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/ROLEX/rolex-37-1.jpeg",
+        "images": [
+            "assets/images/brands/ROLEX/rolex-37-1.jpeg",
+            "assets/images/brands/ROLEX/rolex-37-2.jpeg",
+            "assets/images/brands/ROLEX/rolex-37-3.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this R0LEX watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 38,
+        "name": "R0LEX Luxury Edition 6",
+        "brand": "R0LEX",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/ROLEX/rolex-38-1.jpeg",
+        "images": [
+            "assets/images/brands/ROLEX/rolex-38-1.jpeg",
+            "assets/images/brands/ROLEX/rolex-38-2.jpeg",
+            "assets/images/brands/ROLEX/rolex-38-3.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this R0LEX watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 39,
+        "name": "TAGG HUER Luxury Edition 1",
+        "brand": "TAGG HUER",
+        "category": "watch",
+        "price": "₹4599",
+        "image": "assets/images/brands/TAG HEUER/tag-heuer-39-1.jpeg",
+        "images": [
+            "assets/images/brands/TAG HEUER/tag-heuer-39-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this TAGG HUER watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 40,
+        "name": "TISS0T Luxury Edition 1",
+        "brand": "TISS0T",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/TISOT/tisot-40-1.jpeg",
+        "images": [
+            "assets/images/brands/TISOT/tisot-40-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this TISS0T watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 41,
+        "name": "TISS0T Luxury Edition 2",
+        "brand": "TISS0T",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/TISOT/tisot-41-1.jpeg",
+        "images": [
+            "assets/images/brands/TISOT/tisot-41-1.jpeg",
+            "assets/images/brands/TISOT/tisot-41-2.jpeg",
+            "assets/images/brands/TISOT/tisot-41-3.jpeg",
+            "assets/images/brands/TISOT/tisot-41-4.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this TISS0T watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 42,
+        "name": "TISS0T Luxury Edition 3",
+        "brand": "TISS0T",
+        "category": "watch",
+        "price": "₹1500",
+        "image": "assets/images/brands/TISOT/tisot-42-1.jpeg",
+        "images": [
+            "assets/images/brands/TISOT/tisot-42-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this TISS0T watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 43,
+        "name": "T0MMYY HILFEGER Luxury Edition 1",
+        "brand": "T0MMYY HILFEGER",
+        "category": "watch",
+        "price": "₹1350",
+        "image": "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-43-1.jpeg",
+        "images": [
+            "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-43-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this T0MMYY HILFEGER watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 44,
+        "name": "T0MMYY HILFEGER Luxury Edition 2",
+        "brand": "T0MMYY HILFEGER",
+        "category": "watch",
+        "price": "₹1350",
+        "image": "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-44-1.jpeg",
+        "images": [
+            "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-44-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this T0MMYY HILFEGER watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 45,
+        "name": "T0MMYY HILFEGER Luxury Edition 3",
+        "brand": "T0MMYY HILFEGER",
+        "category": "watch",
+        "price": "₹1350",
+        "image": "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-45-1.jpeg",
+        "images": [
+            "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-45-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this T0MMYY HILFEGER watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 46,
+        "name": "T0MMYY HILFEGER Luxury Edition 4",
+        "brand": "T0MMYY HILFEGER",
+        "category": "watch",
+        "price": "₹1350",
+        "image": "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-46-1.jpeg",
+        "images": [
+            "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-46-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this T0MMYY HILFEGER watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 47,
+        "name": "T0MMYY HILFEGER Luxury Edition 5",
+        "brand": "T0MMYY HILFEGER",
+        "category": "watch",
+        "price": "₹1350",
+        "image": "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-47-1.jpeg",
+        "images": [
+            "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-47-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this T0MMYY HILFEGER watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 48,
+        "name": "T0MMYY HILFEGER Luxury Edition 6",
+        "brand": "T0MMYY HILFEGER",
+        "category": "watch",
+        "price": "₹1350",
+        "image": "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-48-1.jpeg",
+        "images": [
+            "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-48-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this T0MMYY HILFEGER watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 49,
+        "name": "T0MMYY HILFEGER Luxury Edition 7",
+        "brand": "T0MMYY HILFEGER",
+        "category": "watch",
+        "price": "₹1350",
+        "image": "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-49-1.jpeg",
+        "images": [
+            "assets/images/brands/TOMMY HILFIGER/tommy-hilfiger-49-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this T0MMYY HILFEGER watch. A perfect blend of style and precision."
+    },
+    {
+        "id": 50,
+        "name": "CARRTIER Premium Sunglasses 1",
+        "brand": "CARRTIER",
+        "category": "sunglasses",
+        "price": "₹800",
+        "image": "assets/images/sunglasses/CARTIER/cartier-50-1.jpeg",
+        "images": [
+            "assets/images/sunglasses/CARTIER/cartier-50-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this cartier sunglasses. A perfect blend of style and precision."
+    },
+    {
+        "id": 51,
+        "name": "D0LCE AND GABBBAANA Premium Sunglasses 1",
+        "brand": "D0LCE AND GABBBAANA",
+        "category": "sunglasses",
+        "price": "₹700",
+        "image": "assets/images/sunglasses/DOLCE AND GABBANA/dolce-and-gabbana-51-1.jpeg",
+        "images": [
+            "assets/images/sunglasses/DOLCE AND GABBANA/dolce-and-gabbana-51-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this dolce and gabbana sunglasses. A perfect blend of style and precision."
+    },
+    {
+        "id": 52,
+        "name": "GUUCI Premium Sunglasses 1",
+        "brand": "GUUCI",
+        "category": "sunglasses",
+        "price": "₹700",
+        "image": "assets/images/sunglasses/GUCCI/gucci-52-1.jpeg",
+        "images": [
+            "assets/images/sunglasses/GUCCI/gucci-52-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this gucci sunglasses. A perfect blend of style and precision."
+    },
+    {
+        "id": 53,
+        "name": "GUUCI Premium Sunglasses 2",
+        "brand": "GUUCI",
+        "category": "sunglasses",
+        "price": "₹800",
+        "image": "assets/images/sunglasses/GUCCI/gucci-53-1.jpeg",
+        "images": [
+            "assets/images/sunglasses/GUCCI/gucci-53-1.jpeg",
+            "assets/images/sunglasses/GUCCI/gucci-53-2.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this gucci sunglasses. A perfect blend of style and precision."
+    },
+    {
+        "id": 54,
+        "name": "MEYBACH Premium Sunglasses 1",
+        "brand": "MEYBACH",
+        "category": "sunglasses",
+        "price": "₹850",
+        "image": "assets/images/sunglasses/MAYBACH/maybach-54-1.jpeg",
+        "images": [
+            "assets/images/sunglasses/MAYBACH/maybach-54-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this maybach sunglasses. A perfect blend of style and precision."
+    },
+    {
+        "id": 55,
+        "name": "MEW MEW Premium Sunglasses 1",
+        "brand": "MEW MEW",
+        "category": "sunglasses",
+        "price": "₹750",
+        "image": "assets/images/sunglasses/MIUMIU/miumiu-55-1.jpeg",
+        "images": [
+            "assets/images/sunglasses/MIUMIU/miumiu-55-1.jpeg",
+            "assets/images/sunglasses/MIUMIU/miumiu-55-2.jpeg",
+            "assets/images/sunglasses/MIUMIU/miumiu-55-3.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this miumiu sunglasses. A perfect blend of style and precision."
+    },
+    {
+        "id": 56,
+        "name": "PRRAADA Premium Sunglasses 1",
+        "brand": "PRRAADA",
+        "category": "sunglasses",
+        "price": "₹800",
+        "image": "assets/images/sunglasses/PRADA/prada-56-1.jpeg",
+        "images": [
+            "assets/images/sunglasses/PRADA/prada-56-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this prada sunglasses. A perfect blend of style and precision."
+    },
+    {
+        "id": 57,
+        "name": "REYBAN Premium Sunglasses 1",
+        "brand": "REYBAN",
+        "category": "sunglasses",
+        "price": "₹700",
+        "image": "assets/images/sunglasses/RAY BAN/ray-ban-57-1.jpeg",
+        "images": [
+            "assets/images/sunglasses/RAY BAN/ray-ban-57-1.jpeg",
+            "assets/images/sunglasses/RAY BAN/ray-ban-57-2.jpeg",
+            "assets/images/sunglasses/RAY BAN/ray-ban-57-3.jpeg",
+            "assets/images/sunglasses/RAY BAN/ray-ban-57-4.jpeg",
+            "assets/images/sunglasses/RAY BAN/ray-ban-57-5.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this ray ban sunglasses. A perfect blend of style and precision."
+    },
+    {
+        "id": 58,
+        "name": "VERSACHE Premium Sunglasses 1",
+        "brand": "VERSACHE",
+        "category": "sunglasses",
+        "price": "₹800",
+        "image": "assets/images/sunglasses/VERSACE/versace-58-1.jpeg",
+        "images": [
+            "assets/images/sunglasses/VERSACE/versace-58-1.jpeg"
+        ],
+        "description": "Experience the pinnacle of craftsmanship with this versace sunglasses. A perfect blend of style and precision."
+    }
+]
